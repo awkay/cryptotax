@@ -1,0 +1,4 @@
+{:deps {
+        clojure-csv/clojure-csv {:mvn/version "2.0.2"}
+        cljc.java-time/cljc.java-time {:mvn/version "0.1.18"}
+        }}
